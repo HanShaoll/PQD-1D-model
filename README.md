@@ -1,5 +1,5 @@
 # PQD-1D-model
 
-This repository contains the code, dataset, and deep learning models developed for the paper titled "Comparing Deep Neural Networks for 1D Multi-Label Power Quality Disturbance Classification: ResNet, MobileNet, and DenseNet". The study has been submitted to IECON 2024.
+This repository contains the code, dataset, and deep learning models developed for the paper titled "Comparing Deep Neural Networks for 1D Multi-Label Power Quality Disturbance Classification: ResNet, MobileNet, and DenseNet". The study has been accepted by IECON 2024.
 
-The complete package includes the simulated power quality disturbance database, the 1D multi-label classification code, and the corresponding model files. These resources will be made available for download upon the article's acceptance by IECON.
+The complete package includes the simulated power quality disturbance database, the 1D multi-label classification code, and the corresponding model files. These resources will be available before Nov 17, 2024.
