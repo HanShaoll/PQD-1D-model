@@ -7,7 +7,7 @@ This repository contains:
 
 3. Pretrained model files for reproducibility
 
-📌 Latest update: May 6, 2025
+📌 Latest update: June 6, 2025
 _________________________________________________________________________________________________________________________
 📖 Citation
 
