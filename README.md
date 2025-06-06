@@ -3,7 +3,7 @@ This repository contains:
 
 1. A simulated Power Quality Disturbance (PQD) database
 
-2. 1D multi-label classification code implementations using ResNet, MobileNet, and DenseNet
+2. 1D multi-label classification code implementations using ResNet, MobileNet, and DenseNet in Keras
 
 3. Pretrained model files for reproducibility
 
