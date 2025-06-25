@@ -3,11 +3,13 @@ This repository contains:
 
 1. A simulated Power Quality Disturbance (PQD) database
 
-2. 1D multi-label classification code implementations using ResNet, MobileNet, and DenseNet in Keras
+2. 1D multi-label classification code implementations using ResNet, MobileNet, and DenseNet in Keras, with pretrained model files provided for reproducibility.
 
-3. Pretrained model files for reproducibility
+📌 Latest update: June 25, 2025
 
-📌 Latest update: June 6, 2025
+
+Our proposed PyTorch-based disturbance classification model will be also included once our submission is accepted by Applied Energy.
+
 _________________________________________________________________________________________________________________________
 📖 Citation
 
