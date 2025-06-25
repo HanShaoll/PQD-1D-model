@@ -8,8 +8,7 @@ This repository contains:
 📌 Latest update: June 25, 2025
 
 
-Our proposed PyTorch-based disturbance classification model will be also included once our submission is accepted by Applied Energy.
-
+We will also release our proposed PQD classification model in PyTorch after the acceptance of our submission to Applied Energy.
 _________________________________________________________________________________________________________________________
 📖 Citation
 
