@@ -7,7 +7,7 @@ This repository contains:
 
 📌 Latest update: June 25, 2025
 
-
+🧪 Coming soon:
 We will also release our proposed PQD classification model in PyTorch after the acceptance of our submission to Applied Energy.
 _________________________________________________________________________________________________________________________
 📖 Citation
