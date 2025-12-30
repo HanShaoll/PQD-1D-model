@@ -15,4 +15,6 @@ ________________________________________________________________________________
 If you use this repository, please cite our work:
 
 [1] Shao H, Henriques R, Morais H, Tedeschi E. Attention-enhanced residual networks for real-time multi-label power quality disturbance classification with fast iterative filtering. Applied Energy 2026;406:127233. https://doi.org/10.1016/j.apenergy.2025.127233.
+
 [2] H. Shao, R. Henriques, H. Morais, and E. Tedeschi, “Comparing Deep Neural Networks for 1D Multi-Label Power Quality Disturbance Classification: ResNet, MobileNet, and DenseNet,” in IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, Nov. 2024, pp. 1–6. doi: 10.1109/IECON55916.2024.10905211.
+
