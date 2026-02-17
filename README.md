@@ -8,7 +8,7 @@ This repository contains:
 📌 Latest update: June 25, 2025
 
 🧪 Coming soon:
-We will release our proposed PQD classification model in PyTorch no later than Feb 1, 2026.
+We will release our proposed PQD classification model in PyTorch no later than Feb 25, 2026.
 _________________________________________________________________________________________________________________________
 📖 Citation
 
