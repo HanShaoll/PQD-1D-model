@@ -7,7 +7,7 @@ The repo is the official implementation for the paper: [Attention-enhanced resid
 ## Updates
 🚩 Feb 25, 2026: Code release for the ECA-enhanced ResNet framework for real-time multi-label PQD identification [(paper)](https://doi.org/10.1016/j.apenergy.2025.127233)
 
-🚩 Jun 25, 2025: Synthetic dataset and 1D ResNet/MobileNet/DenseNet models for PQD classification are available [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211)
+🚩 Jun 25, 2025: Synthetic PQD dataset and 1D ResNet/MobileNet/DenseNet models are available [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211)
 
 **Coming soon**: System-wide monitoring pipeline code upon acceptance in *IEEE TIM* 
 
