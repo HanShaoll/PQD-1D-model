@@ -39,5 +39,3 @@ Please cite our work if you find this repository helpful:
   year={2026},
   publisher={Elsevier}
 }
-
-
