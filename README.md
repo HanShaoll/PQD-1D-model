@@ -9,6 +9,8 @@ The repo is the official implementation for the paper: [Attention-enhanced resid
 
 🚩 Jun 25, 2025: Synthetic PQD dataset and 1D ResNet/MobileNet/DenseNet models for PQD classification are available [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211)
 
+**Coming soon**: Code for the system-wide PQ monitoring pipeline following acceptance in IEEE TIM 
+
 ## Introduction 
 The growing integration of offshore wind energy into modern power grids introduces diverse PQDs arising from both offshore renewable dynamics and onshore grid events, underscoring the need for real-time, comprehensive PQ monitoring (see [here](https://doi.org/10.1016/j.rser.2023.114094) for more details).
 
