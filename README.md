@@ -19,6 +19,9 @@ Accordingly, we develop a lightweight classification framework that leverages fa
 
 ## Synthetic dataset 
 Synthetic voltage signals were generated in MATLAB per IEEE 1159–2019. Signals (0.2 s, 640 samples at 3.2 kHz) cover 20 events with multi-label annotations, including seven base disturbances and their combinations. Gaussian noise is added at SNRs of 20–50 dB to reflect practical conditions.
+<div align="center">
+  <img src="images/signals.png">
+</div>
 
 ## Usage 
 
