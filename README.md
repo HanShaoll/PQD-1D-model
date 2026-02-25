@@ -11,7 +11,7 @@ The repo is the official implementation for the paper: [Attention-enhanced resid
 
 ## Introduction 
 The growing integration of offshore wind energy into modern power grids introduces diverse PQDs arising from both offshore renewable dynamics and onshore grid events, underscoring the need for real-time, comprehensive PQ monitoring (see [here](https://doi.org/10.1016/j.rser.2023.114094) for more details).
-<img width="865" height="439" alt="image" src="https://github.com/user-attachments/assets/823c6ca6-5177-448d-8f79-519ed7d4da1d" />
+<img width="605" height="307" alt="image" src="https://github.com/user-attachments/assets/823c6ca6-5177-448d-8f79-519ed7d4da1d" />
 
 Accordingly, we develop a lightweight classification framework that leverages fast iterative filtering (FIF), a multi-scale 1D ResNet, and ECA for superior predictive performance. The proposed architecture uses three parallel branches with varying kernel sizes to capture multi-level features from FIF-derived 1D sequences, enabling robust multi-label classification of overlapping PQ events.
 
