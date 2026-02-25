@@ -1,14 +1,17 @@
 # PQD-1D-model
-This repository contains:
+The repo is the official implementation for the paper: [Attention-enhanced residual networks for real-time multi-label power quality disturbance classification with fast iterative filtering](https://doi.org/10.1016/j.apenergy.2025.127233), containing:
+1.	A simulated Power Quality Disturbance (PQD) database
+2.	1D ResNet/MobileNet/DenseNet models for PQD classification
+3.	Proposed multi-scale ResNet-efficient channel attention (ECA) PQD classification framework
 
-1. A simulated Power Quality Disturbance (PQD) database
+## Updates
+🚩 Feb 25, 2026: Code release for the ECA-enhanced ResNet framework for real-time multi-label PQD identification [(paper)](https://doi.org/10.1016/j.apenergy.2025.127233).
+🚩 June 25, 2025: Release of synthetic PQD datasets and 1D ResNet/MobileNet/DenseNet models for PQD classification [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211) are available.
 
-2. 1D multi-label classification code implementations using ResNet, MobileNet, and DenseNet in Keras, with pretrained model files provided for reproducibility.
+## Introduction 
 
-📌 Latest update: June 25, 2025
 
-🧪 Coming soon:
-We will release our proposed PQD classification model in PyTorch no later than Feb 25, 2026.
+
 _________________________________________________________________________________________________________________________
 📖 Citation
 
