@@ -26,6 +26,12 @@ Synthetic voltage signals were generated in MATLAB per IEEE 1159–2019. Signals
 </div>
 
 ## Usage 
+1. Install PyTorch and the required dependencies.
+The code is developed and tested with PyTorch 2.5.1 under Python 3.9.21.
+2. The model takes FIF results as input, 
+which can be downloaded from [Google Drive](https://drive.google.com/file/d/1rNeP5YxVIEnWYpay4fgtRLzphY2r1x5B/view). To use raw 1D PQD signals instead, set the input channel number to 1 and update the dataset loader.
+3. Train and evaluate the model using the provided scripts. 
+
 
 ## Citation
 Please cite our work if you find this repository helpful:
