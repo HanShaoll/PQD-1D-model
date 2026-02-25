@@ -1,15 +1,15 @@
 # PQD-1D-model
 The repo is the official implementation for the paper: [Attention-enhanced residual networks for real-time multi-label power quality disturbance classification with fast iterative filtering](https://doi.org/10.1016/j.apenergy.2025.127233), containing:
-1.	A simulated Power Quality Disturbance (PQD) database
-2.	1D ResNet/MobileNet/DenseNet models for PQD classification
+1.	A simulated power quality disturbance (PQD) database
+2.	1D ResNet/MobileNet/DenseNet models for power quality (PQ) monitoring
 3.	Proposed multi-scale ResNet-efficient channel attention (ECA) PQD classification framework
 
 ## Updates
 🚩 Feb 25, 2026: Code release for the ECA-enhanced ResNet framework for real-time multi-label PQD identification [(paper)](https://doi.org/10.1016/j.apenergy.2025.127233)
 
-🚩 Jun 25, 2025: Synthetic PQD dataset and 1D ResNet/MobileNet/DenseNet models for PQD classification are available [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211)
+🚩 Jun 25, 2025: Synthetic dataset and 1D ResNet/MobileNet/DenseNet models for PQD classification are available [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211)
 
-**Coming soon**: System-wide PQ monitoring pipeline code upon acceptance in *IEEE TIM* 
+**Coming soon**: System-wide monitoring pipeline code upon acceptance in *IEEE TIM* 
 
 ## Introduction 
 The growing integration of offshore wind energy into modern power grids introduces diverse PQDs arising from both offshore renewable dynamics and onshore grid events, underscoring the need for real-time, comprehensive PQ monitoring (see [here](https://doi.org/10.1016/j.rser.2023.114094) for more details).
