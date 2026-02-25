@@ -19,6 +19,7 @@ The growing integration of offshore wind energy into modern power grids introduc
     src="https://github.com/user-attachments/assets/823c6ca6-5177-448d-8f79-519ed7d4da1d"
   />
 </div>
+
 Accordingly, we develop a lightweight classification framework that leverages fast iterative filtering (FIF), a multi-scale 1D ResNet, and ECA for superior predictive performance. The proposed architecture uses three parallel branches with varying kernel sizes to capture multi-level features from FIF-derived 1D sequences, enabling robust multi-label classification of overlapping PQ events.
 
 ## Synthetic dataset 
