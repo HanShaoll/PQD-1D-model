@@ -5,7 +5,7 @@ The repo is the official implementation for the paper: [Attention-enhanced resid
 3.	Proposed multi-scale ResNet-efficient channel attention (ECA) PQD classification framework
 
 ## Updates
-🚩 Feb 25, 2026: Code release for the ECA-enhanced ResNet framework for real-time PQD identification [(paper)](https://doi.org/10.1016/j.apenergy.2025.127233)
+🚩 Feb 25, 2026: Code release for the ECA-enhanced ResNet framework [(paper)](https://doi.org/10.1016/j.apenergy.2025.127233)
 
 🚩 Jun 25, 2025: Synthetic PQD dataset and 1D ResNet/MobileNet/DenseNet models are available [(paper)](https://doi.org/10.1109/IECON55916.2024.10905211)
 
